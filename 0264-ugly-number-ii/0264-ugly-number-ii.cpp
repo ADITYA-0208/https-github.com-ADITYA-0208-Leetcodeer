@@ -1,28 +1,18 @@
 class Solution {
 public:
     int nthUglyNumber(int n) {
-        priority_queue <long long, vector<long long>, greater<long long> > pq;
-        unordered_map<long long,int>map1;
-        pq.push(1);map1[1]++;
-        pq.push(2);map1[2]++;
-        pq.push(3);map1[3]++;
-        pq.push(5);map1[5]++;
-        vector<long long>mul;
-        while(!pq.empty()){
-            long long top=pq.top();
-            pq.pop();
-            mul.push_back(top);
-            long long m=mul.size();
-            if(mul.size()==n)   return mul[n-1];
-            for(long long i=0;i<m;i++){
-                long long  x= mul[i]*top;
-                if(map1.find(x)==map1.end()){
-                    map1[x]++;
-                    pq.push(x);
-                }
-            }
-            
+        if(n <= 0) return false; // get rid of corner cases 
+        if(n == 1) return true; // base case
+        int t2 = 0, t3 = 0, t5 = 0; //pointers for 2, 3, 5
+        vector<int> k(n);
+        k[0] = 1;
+        for(int i  = 1; i < n ; i ++)
+        {
+            k[i] = min(k[t2]*2,min(k[t3]*3,k[t5]*5));
+            if(k[i] == k[t2]*2) t2++; 
+            if(k[i] == k[t3]*3) t3++;
+            if(k[i] == k[t5]*5) t5++;
         }
-        return -1;
+        return k[n-1];
     }
 };
