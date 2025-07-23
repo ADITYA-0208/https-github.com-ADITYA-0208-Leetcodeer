@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3863-power-grid-maintenance) |
 | [3936-split-array-by-prime-indices](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3936-split-array-by-prime-indices) |
 ## Hash Table
@@ -84,15 +85,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0542-01-matrix) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
@@ -106,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0542-01-matrix) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Number Theory
 |  |
 | ------- |
