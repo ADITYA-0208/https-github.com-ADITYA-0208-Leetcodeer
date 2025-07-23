@@ -71,12 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3396-valid-word](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3617-find-the-original-typed-string-i) |
+| [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 ## Math
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0264-ugly-number-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 | [3936-split-array-by-prime-indices](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3936-split-array-by-prime-indices) |
 ## Linked List
 |  |
