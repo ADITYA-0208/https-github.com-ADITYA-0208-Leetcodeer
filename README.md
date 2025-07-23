@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3863-power-grid-maintenance](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3863-power-grid-maintenance) |
+| [3936-split-array-by-prime-indices](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3936-split-array-by-prime-indices) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0264-ugly-number-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3936-split-array-by-prime-indices](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3936-split-array-by-prime-indices) |
 ## Linked List
 |  |
 | ------- |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0542-01-matrix) |
+## Number Theory
+|  |
+| ------- |
+| [3936-split-array-by-prime-indices](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3936-split-array-by-prime-indices) |
 <!---LeetCode Topics End-->
