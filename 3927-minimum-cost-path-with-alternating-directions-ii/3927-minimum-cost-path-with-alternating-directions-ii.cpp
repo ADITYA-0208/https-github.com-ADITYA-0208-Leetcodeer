@@ -7,8 +7,8 @@ public:
     }
 
     long long dfs(int i, int j, int n, int m, vector<vector<int>>& waitCost, vector<vector<long long>>& memo) {
-        if (i < 0 || j < 0) return LLONG_MAX; // invalid
-        if (i == 0 && j == 0) return 1; // base case
+        if (i < 0 || j < 0) return LLONG_MAX; 
+        if (i == 0 && j == 0) return 1; 
 
         if (memo[i][j] != -1) return memo[i][j];
 
