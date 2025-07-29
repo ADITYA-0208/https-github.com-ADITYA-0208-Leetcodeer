@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0027-remove-element) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
