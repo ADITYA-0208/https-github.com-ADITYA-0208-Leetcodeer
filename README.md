@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0937-online-stock-span](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0937-online-stock-span) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Greedy
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0937-online-stock-span) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Two Pointers
 |  |
@@ -189,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0231-power-of-two) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
