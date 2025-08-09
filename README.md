@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0131-palindrome-partitioning) |
 | [0264-ugly-number-ii](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0264-ugly-number-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0058-length-of-last-word) |
 | [0126-word-ladder-ii](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0126-word-ladder-ii) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0027-remove-element) |
 | [0148-sort-list](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0148-sort-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
