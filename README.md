@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0005-longest-palindromic-substring) |
+| [0096-unique-binary-search-trees](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0131-palindrome-partitioning) |
 | [0264-ugly-number-ii](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0264-ugly-number-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0264-ugly-number-ii) |
@@ -187,16 +189,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0096-unique-binary-search-trees) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0096-unique-binary-search-trees) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0297-serialize-and-deserialize-binary-tree) |
