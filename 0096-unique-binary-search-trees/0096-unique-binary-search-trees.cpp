@@ -1,14 +1,15 @@
 class Solution {
 public:
     int numTrees(int n) {
-        vector<int>ans(n+1,1);
-        for(int i=2;i<=n;i++){
-            int total=0;
-            for(int j=1;j<=i;j++){
-                total+=ans[j-1]*ans[i-j];
-            }
-            ans[i]=total;
+        if (n <= 1) return 1; // base case
+
+        int total = 0;
+        for (int i = 1; i <= n; i++) {
+            // choose i as root
+            int left = numTrees(i - 1);   // left subtree
+            int right = numTrees(n - i); // right subtree
+            total += left * right;
         }
-        return ans[n];
+        return total;
     }
 };
