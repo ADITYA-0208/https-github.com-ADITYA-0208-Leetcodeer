@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3863-power-grid-maintenance](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3863-power-grid-maintenance) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 | [3936-split-array-by-prime-indices](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3936-split-array-by-prime-indices) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0148-sort-list) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Tree
 |  |
 | ------- |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0210-course-schedule-ii) |
+## Simulation
+|  |
+| ------- |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3974-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
