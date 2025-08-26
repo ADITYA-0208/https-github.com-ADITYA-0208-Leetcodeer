@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3863-power-grid-maintenance) |
