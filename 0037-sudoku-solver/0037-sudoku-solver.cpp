@@ -21,11 +21,11 @@ public:
                             board[i][j] = c;
                             if (solveSudoku(board))
                                 return true;
-                            else
-                                board[i][j] = '.';
+                            
+                            board[i][j] = '.';
                         }
                 }
-                    return false;
+                return false;
                 }
             }
         }
