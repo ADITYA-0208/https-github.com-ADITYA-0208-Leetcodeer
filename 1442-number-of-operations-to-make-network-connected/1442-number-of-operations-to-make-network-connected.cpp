@@ -1,31 +1,53 @@
 class Solution {
 public:
-    void dfs(int n,int i,unordered_map<int,vector<int>>&map,vector<int>& visited){
-        visited[i]=1;
-
-        for(auto it : map[i]){
-            if(!visited[it]){
-                dfs(n,it,map,visited);
-            }
+    vector<int>parent,size;
+    int find(int node){
+        if(node==parent[node]){
+            return node;
+        }
+        return parent[node]=find(parent[node]);
+    }
+    void unionby(int node1, int node2){
+        int parent1=find(node1);
+        int parent2=find(node2);
+        if(parent1==parent2)    return;
+        if(size[parent1]<size[parent2]){
+            parent[parent1]=parent2;
+            size[parent2]+=size[parent1];
+        }
+        else{
+            parent[parent2]=parent1;
+            size[parent1]+=size[parent2];
         }
         return ;
     }
     int makeConnected(int n, vector<vector<int>>& connections) {
-        unordered_map<int,vector<int>>map;
         int edges=connections.size();
         if(edges<n-1)  return -1;
-        for(auto it : connections){
-            map[it[0]].push_back(it[1]);
-            map[it[1]].push_back(it[0]);
+        
+        parent.resize(n + 1);
+        size.resize(n + 1);
+        for (int i = 0; i <= n; i++) {
+            parent[i] = i;
+            size[i] = 1;
         }
-        vector<int>visited(n,0);
-        int count=0;
-        for(int i=0;i<n;i++){
-            if(!visited[i]){
-                dfs(n,i,map,visited);
-                count++;
+        int cntExtras = 0;
+        for (auto it : connections) {
+            int u = it[0];
+            int v = it[1];
+            if (find(u) == find(v)) {
+                cntExtras++;
+            }
+            else {
+                unionby(u, v);
             }
         }
-        return count-1;
+        int cntC = 0;
+        for (int i = 0; i < n; i++) {
+            if (parent[i] == i) cntC++;
+        }
+        int ans = cntC - 1;
+        if (cntExtras >= ans) return ans;
+        return -1;
     }
 };
