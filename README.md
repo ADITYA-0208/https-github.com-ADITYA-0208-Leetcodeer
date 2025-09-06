@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0794-swim-in-rising-water) |
 | [0828-chalkboard-xor-game](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0828-chalkboard-xor-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -78,11 +79,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0264-ugly-number-ii) |
+| [0794-swim-in-rising-water](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3863-power-grid-maintenance](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0794-swim-in-rising-water) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Dynamic Programming
 |  |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0794-swim-in-rising-water) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3863-power-grid-maintenance) |
@@ -168,12 +172,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0794-swim-in-rising-water) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0794-swim-in-rising-water) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3863-power-grid-maintenance) |
@@ -195,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0794-swim-in-rising-water) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
