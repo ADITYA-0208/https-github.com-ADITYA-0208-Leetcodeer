@@ -13,12 +13,15 @@ public:
 
             if(!visited[it]) {
                 dfs(n, it, node, low, dfn, visited);
-                
+                low[node] = min(low[node], low[it]);
+
                 if(low[it] > dfn[node]) {  
                     ans.push_back({node, it});
                 }
             }
-            low[node] = min(low[node], low[it]);
+            else {
+                low[node] = min(low[node], low[it]);
+            }
         }
     }
 
