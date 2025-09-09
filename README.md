@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0794-swim-in-rising-water) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1300-critical-connections-in-a-network](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3863-power-grid-maintenance) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0210-course-schedule-ii) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1300-critical-connections-in-a-network](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [3863-power-grid-maintenance](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3863-power-grid-maintenance) |
 ## Ordered Set
@@ -326,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
