@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0051-n-queens) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0118-pascals-triangle) |
+| [0140-word-break-ii](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0216-combination-sum-iii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0037-sudoku-solver) |
 | [0126-word-ladder-ii](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0140-word-break-ii) |
 | [0264-ugly-number-ii](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0264-ugly-number-ii) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0140-word-break-ii) |
 | [0264-ugly-number-ii](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0264-ugly-number-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0140-word-break-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1197-parsing-a-boolean-expression](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1197-parsing-a-boolean-expression) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0051-n-queens) |
 | [0126-word-ladder-ii](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0216-combination-sum-iii) |
 ## Recursion
 |  |
@@ -342,5 +347,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
