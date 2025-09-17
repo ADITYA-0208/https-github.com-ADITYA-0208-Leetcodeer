@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2429-design-a-food-rating-system](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2429-design-a-food-rating-system](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/2429-design-a-food-rating-system) |
 | [3863-power-grid-maintenance](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3863-power-grid-maintenance) |
 ## Counting
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0937-online-stock-span](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0937-online-stock-span) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2429-design-a-food-rating-system](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/2429-design-a-food-rating-system) |
 ## Greedy
 |  |
 | ------- |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0264-ugly-number-ii) |
 | [0794-swim-in-rising-water](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2429-design-a-food-rating-system](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/2429-design-a-food-rating-system) |
 | [3863-power-grid-maintenance](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
@@ -131,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1197-parsing-a-boolean-expression) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2429-design-a-food-rating-system](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/2429-design-a-food-rating-system) |
 | [3396-valid-word](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3617-find-the-original-typed-string-i) |
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
@@ -209,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2429-design-a-food-rating-system](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/2429-design-a-food-rating-system) |
 | [3863-power-grid-maintenance](https://github.com/ADITYA-0208/https-github.com-ADITYA-0208-Leetcodeer/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
