@@ -1,45 +1,31 @@
 class Solution {
 public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<int> visited(numCourses, 0); 
-        stack<int> ans;                    
-        vector<vector<int>> adjList(numCourses); 
-        
-        for (auto& prereq : prerequisites) {
-            adjList[prereq[1]].push_back(prereq[0]);
+        vector<vector<int>> adj(numCourses); 
+        vector<int> indegree(numCourses, 0); 
+        for (auto& pre : prerequisites) {
+            int course = pre[0];
+            int prereq = pre[1];
+            adj[prereq].push_back(course);
+            indegree[course]++;
         }
-
         
+        queue<int> q;
         for (int i = 0; i < numCourses; i++) {
-            if (visited[i] == 0) {
-                if (!dfs(i, ans, adjList, visited)) {
-                    return {}; 
-                }
+            if (indegree[i] == 0) q.push(i);
+        }
+        
+        vector<int> order;
+        while (!q.empty()) {
+            int node = q.front(); q.pop();
+            order.push_back(node);
+            
+            for (int neigh : adj[node]) {
+                indegree[neigh]--;
+                if (indegree[neigh] == 0) q.push(neigh);
             }
         }
-
-        vector<int> result;
-        while (!ans.empty()) {
-            result.push_back(ans.top());
-            ans.pop();
-        }
-
-        return result;
+        if ((int)order.size() == numCourses) return order;
+        return {};
     }
-
-       bool dfs(int node, stack<int>& st, vector<vector<int>>& adjList, vector<int>& visited) {
-        visited[node] = 1;
-
-
-        for (int neighbor : adjList[node]) {
-            if (visited[neighbor] == 1) {
-                return false;             }
-            if (visited[neighbor] == 0) {
-                if (!dfs(neighbor, st, adjList, visited)) {
-                    return false;                 }
-            }
-        }
-
-        visited[node] = 2;  
-        st.push(node);              return true;            }
 };
